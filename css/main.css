@@ -41,7 +41,7 @@ header{
 
 @media (min-width: 1320px){
   header{
-   background-size: 100% 100%; 
+   background-size: cover; 
   }
 }
 
